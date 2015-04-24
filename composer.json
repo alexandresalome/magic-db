@@ -1,0 +1,9 @@
+{
+    "name": "alexandresalome/magic-db",
+    "description": "A magic DB",
+
+    "require": {
+        "silex/silex":     "~1.2",
+        "symfony/process": "~2.6"
+    }
+}
